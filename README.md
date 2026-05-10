@@ -122,18 +122,24 @@ A privacy-first, AI-native desktop assistant designed to simplify Windows optimi
 
 ## 🎓 Certifications & Academic Pursuits
 
-### Certifications
-- Applied Accelerated Artificial Intelligence – IIT Guwahati (NPTEL)
-- Digital Transformation: Theory and Applications – IIM Ahmedabad
-- Cloud Computing – IIT Kharagpur (NPTEL)
-- Generative AI Foundations
-- AI Tools Certification
-- Agile & Project Management Certifications
+### AI, Cloud & Digital Transformation Certifications
+
+- Applied Accelerated Artificial Intelligence — IIT Guwahati
+- AWS Certified Cloud Practitioner — Amazon Web Services (AWS)
+- Claude Certified Architect — Anthropic
+- Generative AI Foundations Certificate Program — upGrad & Microsoft
+- AI in Product Management — IIT Roorkee
+- Digital Transformation: Theory and Applications — IIM Ahmedabad
+- Cloud Computing — IIT Kharagpur
+
 
 ### Academic Pursuits
+
 - Doctor of Business Administration (DBA) in Artificial Intelligence
-- Executive MBA in Strategic Management & AI
+- Master in Artificial Intelligence
+- Executive MBA in Strategic Management & Artificial Intelligence
 - Executive MBA in Information Technology
+- B.Tech in Computer Science & Engineering
 
 ---
 
