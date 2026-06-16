@@ -8,15 +8,40 @@
       "phd": {
         "institution": "Sikkim Global Technical University",
         "period": "2024 - 2027",
-        "focus": "Governance-Aware, Safety-Constrained Agentic AI Frameworks"
+        "focus": "Governance-Aware, Safety-Constrained Agentic AI Frameworks for Autonomous Enterprise Decision-Making"
       },
       "dba": {
-        "institution": "Kennedy University, France",
+        "institution": "Kennedy University (Global Knowledge Hub)",
         "period": "2024 - 2026",
-        "focus": "Strategic Leadership for AI-Driven Business Transformation"
+        "focus": "Strategic Leadership for AI-Driven Business Transformation (CISLF Framework)"
       },
-      "masters": ["Master in Artificial Intelligence", "Executive MBA in Strategic Management and AI", "Executive MBA in IT"],
-      "bachelors": ["B.Tech in Computer Science and Engineering"]
+      "masters": [
+        {
+          "degree": "Master in Artificial Intelligence",
+          "institution": "NEXT University (NEXT MBA)",
+          "focus": "Applied AI, Machine Learning, & Generative Systems"
+        },
+        {
+          "degree": "Executive Master of Business Administration (EMBA)",
+          "institution": "NIBM Global",
+          "period": "November 2025",
+          "specialization": "Artificial Intelligence & Strategic Management",
+          "grade": "A Grade"
+        },
+        {
+          "degree": "Executive Master of Business Administration (EMBA - IT)",
+          "institution": "Sikkim Global Technical University",
+          "period": "July 2023 - July 2024",
+          "sgpa": "7.00"
+        }
+      ],
+      "bachelors": [
+        {
+          "degree": "B.Tech in Computer Science & Engineering",
+          "institution": "Integral University",
+          "period": "July 2009 - July 2013"
+        }
+      ]
     },
     "core_competencies": [
       "Generative AI Applications", "Agentic AI & LLMs", "AI Governance & Safety", "RAG Systems", 
@@ -109,12 +134,12 @@ I actively research AI governance, leadership-driven digital transformation, and
 
 | Program & Degree | Institution | Period / Status | Specialization & Focus Area |
 | :--- | :--- | :--- | :--- |
-| 🎓 **PhD in Computer Science & Engineering** | Sikkim Global Technical University | 2024 – 2027 | Governance-Aware, Safety-Constrained Agentic AI Frameworks for Autonomous Enterprise Decision-Making |
-| 🎓 **Doctor of Business Administration (DBA in AI)** | Kennedy University (Global Knowledge Hub) | 2024 – 2026 | Strategic Leadership for AI-Driven Business Transformation: A Cross-Industry Framework for Technology Executives (Thesis: CISLF Framework) |
-| 🎓 **Master in Artificial Intelligence** | - | Graduate | Applied Machine Learning, Deep Learning, and Generative Architectures |
-| 🎓 **Executive MBA** | - | Graduate | Strategic Management and Artificial Intelligence |
-| 🎓 **Executive MBA** | - | Graduate | Information Technology |
-| 🎓 **B.Tech in Computer Science & Engineering** | - | Graduate | Systems Architecture, Database Design, and Core Software Engineering |
+| 🎓 **PhD in Computer Science & Engineering** | Sikkim Global Technical University | 2024 – 2027 (Active) | Governance-Aware, Safety-Constrained Agentic AI Frameworks for Autonomous Enterprise Decision-Making |
+| 🎓 **Doctor of Business Administration (DBA in AI)** | Kennedy University (Global Knowledge Hub) | 2024 – 2026 (Active) | Strategic Leadership for AI-Driven Business Transformation: A Cross-Industry Framework for Technology Executives (Thesis: CISLF Framework) |
+| 🎓 **Master in Artificial Intelligence** | NEXT University (NEXT MBA) | Graduate | Applied AI, Machine Learning, & Generative Architectures. *Key Mentors & Speakers: Seth Godin, Philip Kotler, Guy Kawasaki, Jeff Sutherland, Marshall Goldsmith, and Dr. Kamal Fayad.* |
+| 🎓 **Executive MBA (AI & Strategic Management)** | NIBM Global | November 2025 | Graduated with **A Grade**. Specialization in Artificial Intelligence and Strategic Management (Post Graduate) |
+| 🎓 **Executive Master of Business Administration (EMBA - IT)** | Sikkim Global Technical University | July 2023 – July 2024 | Graduated with **SGPA 7.00**. Specialization in Information Technology (Post Graduate) |
+| 🎓 **B.Tech in Computer Science & Engineering** | Integral University | July 2009 – July 2013 | Systems Architecture, Database Design, Data Structures, Algorithms, and Software Engineering |
 
 ### **Professional Certifications**
 
