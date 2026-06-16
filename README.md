@@ -3,6 +3,7 @@
     "name": "Mohammad Quasif",
     "title": "AI Solutions Architect | Software Engineer | AI Safety Researcher | Cloud & Automation Specialist",
     "experience": "12+ Years",
+    "orcid": "0009-0003-9455-4804",
     "education": {
       "phd": {
         "institution": "Sikkim Global Technical University",
@@ -44,6 +45,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadquasif)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadquasif)
+[![ORCID iD](https://img.shields.io/badge/ORCID-0009--0003--9455--4804-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9455-4804)
 [![Research Focus](https://img.shields.io/badge/Research-Agentic%20AI%20%26%20Governance-00FF88?style=for-the-badge)](#-doctoral-research--academic-frameworks)
 
 </div>
@@ -104,21 +106,27 @@ I actively research AI governance, leadership-driven digital transformation, and
 ## 🎓 Academic Credentials & Certifications
 
 ### **Education**
-* **PhD Candidate (CS/AI)** – Sikkim Global Technical University (2024 – 2027)
-* **DBA Candidate (AI Strategic Leadership)** – Kennedy University, France (2024 – 2026)
-* **Master in Artificial Intelligence**
-* **Executive MBA** in Strategic Management and Artificial Intelligence
-* **Executive MBA** in Information Technology
-* **B.Tech** in Computer Science & Engineering
+
+| Program & Degree | Institution | Period / Status | Specialization & Focus Area |
+| :--- | :--- | :--- | :--- |
+| 🎓 **PhD in Computer Science & Engineering** | Sikkim Global Technical University | 2024 – 2027 | Governance-Aware, Safety-Constrained Agentic AI Frameworks for Autonomous Enterprise Decision-Making |
+| 🎓 **Doctor of Business Administration (DBA in AI)** | Kennedy University (Global Knowledge Hub) | 2024 – 2026 | Strategic Leadership for AI-Driven Business Transformation: A Cross-Industry Framework for Technology Executives (Thesis: CISLF Framework) |
+| 🎓 **Master in Artificial Intelligence** | - | Graduate | Applied Machine Learning, Deep Learning, and Generative Architectures |
+| 🎓 **Executive MBA** | - | Graduate | Strategic Management and Artificial Intelligence |
+| 🎓 **Executive MBA** | - | Graduate | Information Technology |
+| 🎓 **B.Tech in Computer Science & Engineering** | - | Graduate | Systems Architecture, Database Design, and Core Software Engineering |
 
 ### **Professional Certifications**
-* 🎓 **Applied Accelerated Artificial Intelligence** – *IIT Guwahati*
-* ☁️ **AWS Certified Cloud Practitioner** – *Amazon Web Services (AWS)*
-* 🤖 **Claude Certified Architect** – *Anthropic*
-* ⚙️ **AI in Product Management** – *IIT Roorkee*
-* 📈 **Digital Transformation: Theory and Applications** – *IIM Ahmedabad*
-* 🌐 **Cloud Computing** – *IIT Kharagpur*
-* 🧠 **Generative AI Foundations** – *Microsoft / upGrad*
+
+| Certification / Course | Issuing Authority | Domain / Core Focus | Key Knowledge Areas & Competencies |
+| :--- | :--- | :--- | :--- |
+| 🧠 **Applied Accelerated Artificial Intelligence** | IIT Guwahati | Advanced AI / HPC | Deep learning acceleration, hardware optimizations, high-performance model training |
+| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | Cloud Architecture | Cloud fundamentals, AWS services catalog, IAM security, and serverless design |
+| 🤖 **Claude Certified Architect** | Anthropic | Generative AI & Safety | LLM architectures, system prompt design, safety guardrails, and context optimization |
+| ⚙️ **AI in Product Management** | IIT Roorkee | AI Product Strategy | Product lifecycles, user-centric AI design, technical feasibility, and business value |
+| 📈 **Digital Transformation: Theory and Applications** | IIM Ahmedabad | Enterprise Strategy | Change management, organizational capability shift, and digital business frameworks |
+| 🌐 **Cloud Computing** | IIT Kharagpur | Cloud Systems | Virtualization, distributed architecture, resource management, and cloud deployment |
+| 🧠 **Generative AI Foundations** | Microsoft / upGrad | GenAI Core | Foundation models, prompt engineering, fine-tuning baselines, and safety structures |
 
 ---
 
@@ -130,7 +138,7 @@ I actively research AI governance, leadership-driven digital transformation, and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadquasif&layout=compact&theme=tokyonight)
 
 #### 🏆 GitHub Trophies
-[![Trophy Room](https://github-profile-trophy.vercel.app/?username=mohammadquasif&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy Room](https://github-profile-trophy.vercel.app/?username=mohammadquasif&theme=dracula&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 👁️ Profile Visits
 ![Visitor Counter](https://komarev.com/ghpvc/?username=mohammadquasif&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
