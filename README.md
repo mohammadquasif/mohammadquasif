@@ -53,7 +53,11 @@
       "AWS Certified Cloud Practitioner", 
       "Claude Certified Architect (Anthropic)", 
       "AI in Product Management (IIT Roorkee)",
-      "Digital Transformation (IIM Ahmedabad)"
+      "Digital Transformation (IIM Ahmedabad)",
+      "Project Management (IIT Roorkee)",
+      "Certified SAFe 5 Scrum Master (Scaled Agile)",
+      "Scrum Fundamentals Certified (SCRUMstudy)",
+      "Six Sigma Yellow Belt (6sigmastudy)"
     ],
     "repositories": {
       "cislf_advisor": "https://github.com/mohammadquasif/Cogni-CISLF-Advisor",
@@ -149,9 +153,14 @@ I actively research AI governance, leadership-driven digital transformation, and
 | ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | Cloud Architecture | Cloud fundamentals, AWS services catalog, IAM security, and serverless design |
 | 🤖 **Claude Certified Architect** | Anthropic | Generative AI & Safety | LLM architectures, system prompt design, safety guardrails, and context optimization |
 | ⚙️ **AI in Product Management** | IIT Roorkee | AI Product Strategy | Product lifecycles, user-centric AI design, technical feasibility, and business value |
-| 📈 **Digital Transformation: Theory and Applications** | IIM Ahmedabad | Enterprise Strategy | Change management, organizational capability shift, and digital business frameworks |
+| 📈 **Digital Transformation: Theory and Applications** | IIM Ahmedabad (Swayam) | Enterprise Strategy | Change management, digital business frameworks, socio-technical shift (Score: 70%) |
+| 📅 **Project Management** | IIT Roorkee (NPTEL) | Project Management | Project planning, critical path analysis, resource management, scheduling, and risk mapping (Score: 67%) |
+| 🛡️ **Certified SAFe® 5 Scrum Master** | Scaled Agile, Inc. | Scaled Agile (SAFe) | Enterprise Agile scaling, PI planning, servant leadership, Scrum/Kanban events, and DevOps integration |
+| 🔄 **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy | Agile Principles | Core Scrum principles, roles (Product Owner, Scrum Master, Team), and sprint execution |
+| 📊 **Six Sigma Yellow Belt (SSYB™)** | 6sigmastudy | Quality Management | Six Sigma process mapping, DMAIC methodology, root cause analysis, and quality standards |
 | 🌐 **Cloud Computing** | IIT Kharagpur | Cloud Systems | Virtualization, distributed architecture, resource management, and cloud deployment |
 | 🧠 **Generative AI Foundations** | Microsoft / upGrad | GenAI Core | Foundation models, prompt engineering, fine-tuning baselines, and safety structures |
+| 📢 **IAB Digital Marketing & Media Foundations** | Google | Digital Business | Media planning, search engine marketing (SEM), display advertising, and digital analytics |
 
 ---
 
