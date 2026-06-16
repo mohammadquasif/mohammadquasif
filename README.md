@@ -49,15 +49,18 @@
       "Cloud Architecture (AWS/Azure)", "Microservices", "Full-Stack Development"
     ],
     "certifications": [
-      "Applied Accelerated AI (IIT Guwahati)", 
-      "AWS Certified Cloud Practitioner", 
-      "Claude Certified Architect (Anthropic)", 
+      "Claude Certified Architect (Anthropic)",
+      "AWS Certified Cloud Practitioner",
+      "Applied Accelerated AI (IIT Guwahati)",
       "AI in Product Management (IIT Roorkee)",
       "Digital Transformation (IIM Ahmedabad)",
       "Project Management (IIT Roorkee)",
+      "Cloud Computing (IIT Kharagpur)",
+      "Generative AI Foundations (Microsoft / upGrad)",
       "Certified SAFe 5 Scrum Master (Scaled Agile)",
       "Scrum Fundamentals Certified (SCRUMstudy)",
-      "Six Sigma Yellow Belt (6sigmastudy)"
+      "Six Sigma Yellow Belt (6sigmastudy)",
+      "IAB Digital Marketing & Media Foundations (Google)"
     ],
     "repositories": {
       "cislf_advisor": "https://github.com/mohammadquasif/Cogni-CISLF-Advisor",
@@ -107,13 +110,14 @@ I actively research AI governance, leadership-driven digital transformation, and
 
 ## 🛠️ Technology Stack & Core Competencies
 
-| Domain | Technologies & Tools |
+| Domain | Technologies, Frameworks, & Tools |
 | :--- | :--- |
-| **Artificial Intelligence** | Generative AI, RAG Systems, Autonomous Agents, Prompt Engineering, Local LLM Integration (`Ollama`), `LangChain`, `LlamaIndex` |
-| **Backend & Enterprise** | Python, C#, .NET Core, ASP.NET Core, REST APIs, Microservices, Design Patterns |
-| **Databases & Storage** | SQL Server, PostgreSQL, SQLite, AES-256 Encryption (`Cryptography`/`Fernet`), Redis |
-| **Cloud & DevOps** | AWS (Cloud Practitioner), Microsoft Azure, Docker, CI/CD pipelines, System Automation |
-| **Frontend & UI** | React.js, Angular, PyQt6 (Modern Desktop GUI), Blazor, HTML5, CSS3, JavaScript |
+| **Artificial Intelligence & LLMs** | Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), `Ollama` (Local LLMs), `LangChain`, `LlamaIndex`, Vector Databases (`ChromaDB`, `FAISS`, `pgvector`), OpenAI / Gemini / Claude APIs, Function Calling, Prompt Engineering, Semantic Search, AI Guardrails & Safety |
+| **Backend & Enterprise Engineering** | **C# / .NET:** .NET Core, ASP.NET Core, Entity Framework Core (EF Core), LINQ, Web API, Microservices <br> **Python:** FastAPI, Flask, Asyncio, Scripting & Process Automation, OOP, SOLID Principles, Clean Architecture |
+| **Databases, Storage & Security** | Database Administration (DBA), SQL Server, PostgreSQL, SQLite, T-SQL, Query Optimization & Performance Tuning, Cryptography (AES-256, Fernet, HMAC), Redis Caching |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS, Lambda, IAM, VPC), Microsoft Azure, Docker Containers, CI/CD (GitHub Actions), Shell Scripting, AIOps, System Performance Monitoring |
+| **Frontend & UI Development** | React.js, Next.js, Angular, TypeScript, Blazor, PyQt6 (Desktop GUI Development), HTML5, CSS3, JavaScript, RESTful API Integration |
+| **Agile & Process Governance** | Scaled Agile Framework (SAFe), Scrum, Six Sigma Yellow Belt (DMAIC), Project Management, AI Governance & Ethics |
 
 ---
 
@@ -149,17 +153,17 @@ I actively research AI governance, leadership-driven digital transformation, and
 
 | Certification / Course | Issuing Authority | Domain / Core Focus | Key Knowledge Areas & Competencies |
 | :--- | :--- | :--- | :--- |
-| 🧠 **Applied Accelerated Artificial Intelligence** | IIT Guwahati | Advanced AI / HPC | Deep learning acceleration, hardware optimizations, high-performance model training |
-| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | Cloud Architecture | Cloud fundamentals, AWS services catalog, IAM security, and serverless design |
 | 🤖 **Claude Certified Architect** | Anthropic | Generative AI & Safety | LLM architectures, system prompt design, safety guardrails, and context optimization |
+| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | Cloud Architecture | Cloud fundamentals, AWS services catalog, IAM security, and serverless design |
+| 🧠 **Applied Accelerated Artificial Intelligence** | IIT Guwahati | Advanced AI / HPC | Deep learning acceleration, hardware optimizations, high-performance model training |
 | ⚙️ **AI in Product Management** | IIT Roorkee | AI Product Strategy | Product lifecycles, user-centric AI design, technical feasibility, and business value |
 | 📈 **Digital Transformation: Theory and Applications** | IIM Ahmedabad (Swayam) | Enterprise Strategy | Change management, digital business frameworks, socio-technical shift (Score: 70%) |
 | 📅 **Project Management** | IIT Roorkee (NPTEL) | Project Management | Project planning, critical path analysis, resource management, scheduling, and risk mapping (Score: 67%) |
+| 🌐 **Cloud Computing** | IIT Kharagpur | Cloud Systems | Virtualization, distributed architecture, resource management, and cloud deployment |
+| 🧠 **Generative AI Foundations** | Microsoft / upGrad | GenAI Core | Foundation models, prompt engineering, fine-tuning baselines, and safety structures |
 | 🛡️ **Certified SAFe® 5 Scrum Master** | Scaled Agile, Inc. | Scaled Agile (SAFe) | Enterprise Agile scaling, PI planning, servant leadership, Scrum/Kanban events, and DevOps integration |
 | 🔄 **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy | Agile Principles | Core Scrum principles, roles (Product Owner, Scrum Master, Team), and sprint execution |
 | 📊 **Six Sigma Yellow Belt (SSYB™)** | 6sigmastudy | Quality Management | Six Sigma process mapping, DMAIC methodology, root cause analysis, and quality standards |
-| 🌐 **Cloud Computing** | IIT Kharagpur | Cloud Systems | Virtualization, distributed architecture, resource management, and cloud deployment |
-| 🧠 **Generative AI Foundations** | Microsoft / upGrad | GenAI Core | Foundation models, prompt engineering, fine-tuning baselines, and safety structures |
 | 📢 **IAB Digital Marketing & Media Foundations** | Google | Digital Business | Media planning, search engine marketing (SEM), display advertising, and digital analytics |
 
 ---
@@ -171,8 +175,6 @@ I actively research AI governance, leadership-driven digital transformation, and
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadquasif&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadquasif&layout=compact&theme=tokyonight)
 
-#### 🏆 GitHub Trophies
-[![Trophy Room](https://github-profile-trophy.vercel.app/?username=mohammadquasif&theme=dracula&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### 👁️ Profile Visits
 ![Visitor Counter](https://komarev.com/ghpvc/?username=mohammadquasif&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
