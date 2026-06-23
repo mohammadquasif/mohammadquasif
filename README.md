@@ -93,6 +93,18 @@ In my applied research, I utilize advanced technical stacks to build design-scie
 
 ### 1. 🛡️ [Cogni CISLF Advisor](https://github.com/mohammadquasif/Cogni-CISLF-Advisor)
 *An Implementation Artifact of the CISLF DBA Thesis.*
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jTYCBFAe12g" target="_blank">
+    <img src="https://img.youtube.com/vi/jTYCBFAe12g/maxresdefault.jpg" alt="Watch Walkthrough Video" width="80%" style="border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); box-shadow: 0 8px 30px rgba(0,0,0,0.08);"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jTYCBFAe12g" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Walkthrough%20Video-on%20YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
+
 * **Focus:** Translates academic strategy into a functional diagnostic web utility.
 * **Impact:** Evaluates leadership readiness, technology alignment, skills gap, and AI governance, generating automated 90-day socio-technical transformation roadmaps.
 * **Stack:** Python, LLM APIs (Gemini/Claude/OpenAI), PyMuPDF, Plotly.
